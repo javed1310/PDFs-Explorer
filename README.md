@@ -1,4 +1,4 @@
-# KNOW-YOUR-DOCS
+# PDFs Explorer
 # 📚 Chat with Multiple PDFs using Local LLMs (Streamlit + LangChain)
 
 A powerful and lightweight app that allows users to **upload multiple PDF documents** and **ask questions about their contents** using **local LLMs** like TinyLlama, Phi-3, Qwen, and more — all from a simple **Streamlit interface**.
@@ -79,7 +79,7 @@ Phi-3-mini uses optional quantization (BitsAndBytesConfig) for memory efficiency
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 🙋‍♂️ Author
-Vimarsh Dwivedi
+Javed Ahmad
 
 
 
